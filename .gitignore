@@ -30,5 +30,5 @@ mvnw.cmd
 
 # IntelliJ folders and files
 .idea/
-projectweb1.iml
+*.iml
 
