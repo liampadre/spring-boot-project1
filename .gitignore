@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Java Folders and files
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ folders and files
+.idea/
+projectweb1.iml
+
